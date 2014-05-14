@@ -8,4 +8,5 @@
  "catfacts.coffee",
  "clojure.coffee",
  "corgime.coffee",
- "cowsay.coffee" ]
+ "cowsay.coffee",
+ "dice.coffee" ]

@@ -5,4 +5,5 @@
  "archer.coffee",
  "aww.coffee",
  "bitcoin.coffee",
- "catfacts.coffee" ]
+ "catfacts.coffee",
+ "clojure.coffee" ]

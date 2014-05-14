@@ -6,4 +6,5 @@
  "aww.coffee",
  "bitcoin.coffee",
  "catfacts.coffee",
- "clojure.coffee" ]
+ "clojure.coffee",
+ "corgime.coffee" ]

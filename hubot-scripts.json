@@ -9,4 +9,5 @@
  "clojure.coffee",
  "corgime.coffee",
  "cowsay.coffee",
- "dice.coffee" ]
+ "dice.coffee",
+ "futurama.coffee" ]

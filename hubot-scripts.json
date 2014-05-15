@@ -16,4 +16,6 @@
  "haskell.coffee",
  "haters.coffee",
  "hello.coffee",
+ "httpcat.coffee",
+ "hubble.coffee",
  "hubotagainsthumanity.coffee" ]

@@ -1,5 +1,5 @@
 # Description:
-#   Messing around with the YouTube API.
+#   Reply with an awesome image when the bot hears 'awesome'
 #
 # Commands:
 #   awesome - returns awesome image

@@ -23,6 +23,7 @@
   "dependencies": {
     "cheerio": "",
     "hubot": ">= 2.6.0 < 3.0.0",
+    "hubot-bitcoin": "^1.0.3",
     "hubot-hipchat": "^2.6.4",
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
     "scraper": "0.0.9"
